@@ -1,0 +1,18 @@
+  .movie-page {
+      display: flex;
+  }
+  
+  .movie-image {
+      flex: 1;
+  }
+  
+  .movie-image img {
+      max-width: 90%;
+      padding-top: 50px;
+  }
+  
+  .movie-details {
+      flex: 2;
+      padding: 150px 20px;
+  }
+  
